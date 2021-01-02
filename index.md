@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Decentralize DNS | a Handshake blockchain top level domain
+| [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact)
 
-You can use the [editor on GitHub](https://github.com/BeeChains/decentralizedns/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeeChains/decentralizedns/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# At [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/) our Handshake Top Level Domains are Grown from the ROOT OF PERCEPTION! [OwnTheWeb3/](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.to/) while customizing the Root Zone File of the Internet. Tired of Paying Rent for your domains and websites go here [Learn NameBase](https://learn.namebase.io/). Explore our [Handshake](https://handshake.org/) Top Level Domains listed below;
+- Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdomain on any of our Top Level Domains, make a Handshake ONCE and OWN WEB SPACE with us. Less censorship and near zero gatekeepers. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet.hns.to/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/)
