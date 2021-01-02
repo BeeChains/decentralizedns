@@ -1,5 +1,5 @@
 ## Decentralize DNS | a Handshake blockchain top level domain
-| [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact)
+| [IINC](http://dlink.iinc.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com/)
 
 [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 
